@@ -14,7 +14,7 @@
 
 ## Overview of the Analysis
 ### Purpose:
-The purpose of this project is to enable the users to come up with a travel itinerary according to their weather preferences. 
+The purpose of this project is to create a travel itinerary map based on the customer's weather preferences. 
 
 ### About the Dataset:
 The weather data is collected by making an API 'get' request at the [Open Weather Map website](https://openweathermap.org/api). The data is then retrieved in a JSON (JavaScript Object Notation) format.
